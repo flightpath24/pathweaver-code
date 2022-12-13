@@ -1,0 +1,68 @@
+{
+  "NetworkTables": {
+    "Shuffleboard": {
+      "SmartDashboard": {
+        "DifferentialDrive[1]": {
+          "open": true
+        },
+        "open": true
+      },
+      "open": true
+    },
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/Limelight": "Subsystem",
+      "/LiveWindow/Pneumatics": "Subsystem",
+      "/LiveWindow/Ungrouped/DifferentialDrive[1]": "DifferentialDrive",
+      "/LiveWindow/Ungrouped/PIDController[10]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[11]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[12]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[13]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[14]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[15]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[16]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[17]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[18]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[1]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[2]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[3]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[4]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[5]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[6]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[7]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[8]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[9]": "PIDController",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
+      "/LiveWindow/Ungrouped/navX-Sensor[2]": "Gyro",
+      "/Shuffleboard/SmartDashboard/Auto Selector": "String Chooser",
+      "/Shuffleboard/SmartDashboard/DifferentialDrive[1]": "DifferentialDrive",
+      "/Shuffleboard/SmartDashboard/navX-Sensor[2]": "Gyro",
+      "/SmartDashboard/Auto Selector": "String Chooser",
+      "/SmartDashboard/Field": "Field2d"
+    },
+    "windows": {
+      "/SmartDashboard/Auto Selector": {
+        "window": {
+          "visible": true
+        }
+      },
+      "/SmartDashboard/Field": {
+        "Trajectory": {
+          "arrows": false,
+          "style": "Track"
+        },
+        "image": "C:\\Users\\Slice Robotics Club\\Documents\\SLICE 2023 Code\\frc_slice-git\\frc_slice\\.Glass\\2022-field.png",
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables Log": {
+    "visible": true
+  },
+  "NetworkTables Settings": {
+    "mode": "Client",
+    "serverTeam": "8738"
+  }
+}

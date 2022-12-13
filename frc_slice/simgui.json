@@ -1,0 +1,73 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "SPARK MAX [3]": {
+        "header": {
+          "open": true
+        }
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/Climber": "Subsystem",
+      "/LiveWindow/Drivetrain": "Subsystem",
+      "/LiveWindow/Indexer": "Subsystem",
+      "/LiveWindow/Intake": "Subsystem",
+      "/LiveWindow/Limelight": "Subsystem",
+      "/LiveWindow/Pneumatics": "Subsystem",
+      "/LiveWindow/Shooter": "Subsystem",
+      "/LiveWindow/Ungrouped/ADXRS450_Gyro[0]": "Gyro",
+      "/LiveWindow/Ungrouped/DifferentialDrive[1]": "DifferentialDrive",
+      "/LiveWindow/Ungrouped/PIDController[10]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[11]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[12]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[1]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[2]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[3]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[4]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[5]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[6]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[7]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[8]": "PIDController",
+      "/LiveWindow/Ungrouped/PIDController[9]": "PIDController",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
+      "/LiveWindow/Ungrouped/navX-Sensor[2]": "Gyro",
+      "/LiveWindow/Ungrouped/navX-Sensor[3]": "Gyro",
+      "/Shuffleboard/SmartDashboard/DifferentialDrive[1]": "DifferentialDrive",
+      "/Shuffleboard/SmartDashboard/navX-Sensor[2]": "Gyro",
+      "/Shuffleboard/SmartDashboard/navX-Sensor[3]": "Gyro",
+      "/SmartDashboard/Field": "Field2d"
+    },
+    "windows": {
+      "/SmartDashboard/Field": {
+        "Trajectory": {
+          "arrows": false,
+          "style": "Track"
+        },
+        "image": "C:\\Users\\olivi\\.vscode\\vs projects\\2022 Off-Season Team Code(Current code)\\PathWeaverField Branch Local\\frc_slice\\.Glass\\2022-field.png",
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  },
+  "NetworkTables": {
+    "Shuffleboard": {
+      "Regression": {
+        "open": true
+      },
+      "SmartDashboard": {
+        "DifferentialDrive[1]": {
+          "open": true
+        },
+        "navX-Sensor[3]": {
+          "open": true
+        },
+        "open": true
+      },
+      "open": true
+    }
+  }
+}
